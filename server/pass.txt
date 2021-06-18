@@ -1,0 +1,2 @@
+db_password : "ozqRNw969imTgndj"
+db_username : "aditya-khadatkar-26"
